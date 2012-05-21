@@ -10,3 +10,4 @@ $TTL 600
 
                NS              ns.fritz.go.
 
+inwx	       A               172.20.4.1
