@@ -8,3 +8,15 @@ $TTL 600
                                604800
                                3600 )
 
+               NS              ns.fritz.go.
+
+ns.fritz.go.   A               172.20.2.1
+
+fritz          A               172.20.2.1
+leonard        A               172.20.3.1
+soeren         A               172.20.4.1
+oleander       A               172.20.5.1
+alex           A               172.50.6.1
+waldteufel     A               172.50.7.1
+poapfel        A               172.50.8.1
+
