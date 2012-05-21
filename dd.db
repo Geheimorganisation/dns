@@ -2,19 +2,11 @@ $TTL 600
 
 @        IN    SOA             ns.fritz.go. (
                                fritz.grimpen.net.
-                               2012052101
+                               2012052102
                                3600
                                900
                                604800
                                3600 )
 
                NS              ns.fritz.go.
-
-fritz          A               172.20.2.1
-leonard        A               172.20.3.1
-soeren         A               172.20.4.1
-oleander       A               172.20.5.1
-alex           A               172.50.6.1
-waldteufel     A               172.50.7.1
-poapfel        A               172.50.8.1
 
