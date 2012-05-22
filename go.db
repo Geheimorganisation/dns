@@ -1,34 +1,37 @@
 $TTL 600
 
-@        IN    SOA             ns.fritz.go. (
-                               fritz.grimpen.net.
-                               2012052201
-                               3600
-                               900
-                               604800
-                               3600 )
+@        IN     SOA             ns.fritz.go. (
+                                fritz.grimpen.net.
+                                2012052202
+                                3600
+                                900
+                                604800
+                                3600 )
 
-               NS              ns.fritz.go.
+                NS              ns.fritz.go.
 
-ns.fritz.go.   A               172.20.2.1
+ns.fritz.go.    A               172.20.2.1
 
-fritz          A               172.20.2.1
-oliva.fritz    A               172.20.2.1
-carthago.fritz A               172.20.2.2
-x220.fritz     A               172.20.2.3
-feles.fritz    A               172.20.2.4
+fritz           A               172.20.2.1
+oliva.fritz     A               172.20.2.1
+carthago.fritz  A               172.20.2.2
+x220.fritz      A               172.20.2.3
+feles.fritz     A               172.20.2.4
 
-leonard        A               172.20.3.1
-home.leonard   A               172.20.3.42
-test.leonard   A               172.20.42.1
+leonard         A               172.20.3.1
+home.leonard    A               172.20.3.42
+test.leonard    A               172.20.42.1
 
-soeren         A               172.20.4.1
+soeren          A               172.20.4.1
 
-oleander       A               172.20.5.1
+altair.oleander A               172.20.5.1
+pads            A               172.20.5.2
+wega.oleander   A               172.20.5.32
+usip            A               172.20.5.32
+2400g.oleander  A               172.20.5.64
 
-alex           A               172.50.6.1
+alex            A               172.50.6.1
 
-waldteufel     A               172.50.7.1
+waldteufel      A               172.50.7.1
 
-poapfel        A               172.50.8.1
-
+poapfel         A               172.50.8.1
