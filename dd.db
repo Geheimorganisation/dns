@@ -1,13 +1,14 @@
 $TTL 600
 
-@        IN    SOA             ns.fritz.go. (
+@              IN SOA          ns.fritz.go. (
                                fritz.grimpen.net.
-                               2012052102
+                               2012052204
                                3600
                                900
                                604800
                                3600 )
 
-               NS              ns.fritz.go.
+                  NS           ns.fritz.go.
 
-inwx	       A               172.20.4.1
+inwx              A            172.20.4.1
+honeypot          A            172.20.2.1
