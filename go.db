@@ -18,6 +18,8 @@ carthago.fritz  A               172.20.2.2
 x220.fritz      A               172.20.2.3
 feles.fritz     A               172.20.2.4
 
+ircd            A               172.20.2.4
+
 leonard         A               172.20.3.1
 home.leonard    A               172.20.3.42
 test.leonard    A               172.20.42.1
