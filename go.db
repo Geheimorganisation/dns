@@ -2,7 +2,7 @@ $TTL 600
 
 @        IN     SOA             ns.fritz.go. (
                                 fritz.grimpen.net.
-                                2012052203
+                                2012052601
                                 3600
                                 900
                                 604800
@@ -32,8 +32,10 @@ wega.oleander   A               172.20.5.32
 usip            A               172.20.5.32
 2400g.oleander  A               172.20.5.64
 
-alex            A               172.50.6.1
+alex            A               172.20.6.1
 
-waldteufel      A               172.50.7.1
+waldteufel      A               172.20.7.1
 
-poapfel         A               172.50.8.1
+poapfel         A               172.20.8.1
+
+share           A               172.20.2.5
