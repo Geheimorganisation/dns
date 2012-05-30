@@ -2,7 +2,7 @@ $TTL 600
 
 @        IN     SOA             ns.fritz.go. (
                                 fritz.grimpen.net.
-                                2011052603
+                                2011053001
                                 3600
                                 900
                                 604800
@@ -41,3 +41,6 @@ poapfel         A               172.20.8.1
 share           A               172.20.2.5
 dn42            A               172.20.2.1
 chaosvpn        A               172.20.2.1
+
+feuerrot        A               172.20.9.1
+mob.feuerrot    A               172.20.9.2
