@@ -16,6 +16,7 @@ $TTL 600
 4.2            PTR             feles.fritz.go.
 
 1.3            PTR             leonard.go.
+2.3            PTR             brett.go.
 42.3           PTR             derp.leonard.go.
 
 1.9            PTR             feuerrot.go.
