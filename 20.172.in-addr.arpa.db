@@ -2,7 +2,7 @@ $TTL 600
 
 @        IN    SOA             ns.fritz.go. (
                                fritz.grimpen.net.
-                               2012053001
+                               2012053002
                                3600
                                900
                                604800
@@ -16,6 +16,7 @@ $TTL 600
 4.2            PTR             feles.fritz.go.
 
 1.3            PTR             leonard.go.
+42.3           PTR             derp.leonard.go.
 
 1.9            PTR             feuerrot.go.
 2.9            PTR             mob.feuerrot.go.
