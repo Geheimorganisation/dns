@@ -50,4 +50,5 @@ dn42            A               172.20.2.1
 chaosvpn        A               172.20.2.1
 
 feuerrot        A               172.20.9.1
+                AAAA            fd67:6568:6569:1337::1
 mob.feuerrot    A               172.20.9.2
